@@ -32,8 +32,8 @@ O repositório tente agregar links, sendo o caminho das pedras para quem está e
 
 ## Gems mais usadas
 
-[Devise - Usada para autenticação]()
-[i18n - Usada para tradução]()
+- [Devise - Usada para autenticação]()
+- [i18n - Usada para tradução]()
 []()
 []()
 
@@ -81,7 +81,7 @@ O repositório tente agregar links, sendo o caminho das pedras para quem está e
 
 
 
-[impulso]()
-[iugu]()
-[bxblue]()
+- [impulso]()
+- [iugu]()
+- [bxblue]()
 []()
