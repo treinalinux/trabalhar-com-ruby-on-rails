@@ -48,8 +48,8 @@ O repositório tente agregar links, sendo o caminho das pedras para quem está e
 
 ## Melhores sites
 
-[gorails.com](https://gorails.com)
-[longliveruby.com](https://longliveruby.com)
+- [gorails.com](https://gorails.com)
+- [longliveruby.com](https://longliveruby.com)
 
 ## Melhores Canais do YouTube
 
@@ -73,7 +73,6 @@ O repositório tente agregar links, sendo o caminho das pedras para quem está e
 
 ### MySQL com Rails
 
-### MongoDB com Rails
 
 
 
