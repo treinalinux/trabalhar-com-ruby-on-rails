@@ -80,7 +80,7 @@ O repositório tente agregar links, sendo o caminho das pedras para quem está e
 
 
 
-- [impulso]()
-- [iugu]()
-- [bxblue]()
+- [impulso](https://jobs.kenoby.com/iugu)
+- [iugu](https://jobs.kenoby.com/iugu)
+- [bxblue](https://apply.workable.com/bxblue/)
 []()
