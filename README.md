@@ -6,14 +6,14 @@ O repositório tente agregar links, sendo o caminho das pedras para quem está e
 
 ## Documentação Oficial do Ruby
 
-[]()
+- [ruby-lang.org](https://www.ruby-lang.org/pt/documentation/quickstart/)
 []()
 []()
 []()
 
 ## Documentação Oficial do Rails
 
-[guiarails.com.br](https://guiarails.com.br/getting_started.html)
+- [guiarails.com.br](https://guiarails.com.br/getting_started.html)
 []()
 []()
 []()
@@ -50,6 +50,7 @@ O repositório tente agregar links, sendo o caminho das pedras para quem está e
 
 ## Melhores sites
 
+- [campuscode.com.br](https://www.campuscode.com.br/inicio)
 - [gorails.com](https://gorails.com)
 - [longliveruby.com](https://longliveruby.com)
 
