@@ -2,6 +2,8 @@
 
 O repositório tente agregar links, sendo o caminho das pedras para quem está em transição de carreira para trabalhar com Ruby on Rails.
 
+`Aviso, estamos criando o readme.`
+
 ## Documentação Oficial do Ruby
 
 []()
@@ -32,8 +34,8 @@ O repositório tente agregar links, sendo o caminho das pedras para quem está e
 
 ## Gems mais usadas
 
-- [Devise - Usada para autenticação]()
-- [i18n - Usada para tradução]()
+- [devise](https://github.com/heartcombo/devise) : Devise is a flexible authentication solution for Rails based on Warden.
+- [Ruby i18n](https://github.com/ruby-i18n/i18n) : Provides an easy-to-use and extensible framework for translating your application to a single custom language other than English or for providing multi-language support in your application.
 []()
 []()
 
@@ -57,6 +59,13 @@ O repositório tente agregar links, sendo o caminho das pedras para quem está e
 []()
 []()
 []()
+
+## Melhores Editores/IDE
+
+- [RubyMine](https://www.jetbrains.com/pt-br/ruby/)
+- [vim](https://www.vim.org)
+- [atom]()
+- [vscode]()
 
 ## API
 
