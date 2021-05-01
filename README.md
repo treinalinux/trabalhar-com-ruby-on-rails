@@ -66,6 +66,9 @@ O repositório tente agregar links, sendo o caminho das pedras para quem está e
 ## Boas práticas
 
 - Organizar o Gemfile e colocar em ordem alfabética
+- Não commitar os arquivos:
+- - config/database.yml
+- - Arquivos de chaves [Credenciais Rails 5.2](https://medium.com/cedarcode/rails-5-2-credentials-9b3324851336)
 
 ## Melhores sites
 
