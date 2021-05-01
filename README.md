@@ -34,10 +34,25 @@ O repositório tente agregar links, sendo o caminho das pedras para quem está e
 
 ## Gems mais usadas
 
+### Processos
+
+- [sidekiq]()
+
+### Autenticação
+
 - [devise](https://github.com/heartcombo/devise) : Devise is a flexible authentication solution for Rails based on Warden.
+
+### Testes e performace
+
+
+### Migração de versões
+
+
+### Idiomas
+
 - [Ruby i18n](https://github.com/ruby-i18n/i18n) : Provides an easy-to-use and extensible framework for translating your application to a single custom language other than English or for providing multi-language support in your application.
 []()
-[]()
+
 
 
 
@@ -47,6 +62,10 @@ O repositório tente agregar links, sendo o caminho das pedras para quem está e
 []()
 []()
 []()
+
+## Boas práticas
+
+- Organizar o Gemfile e colocar em ordem alfabética
 
 ## Melhores sites
 
@@ -84,6 +103,12 @@ O repositório tente agregar links, sendo o caminho das pedras para quem está e
 ### MySQL com Rails
 
 
+## Docker
+
+[Quickstart: Compose and Rails](https://docs.docker.com/samples/rails/)
+[Dockerizando uma app Rails parte 1](https://campuscode.com.br/conteudos/dockerizando-uma-app-rails-para-desenvolvimento-parte-1)
+[Dockerizando uma app Rails parte 2](https://campuscode.com.br/conteudos/dockerizando-uma-app-rails-para-desenvolvimento-parte-2)
+[Conteinerizando um aplicativo Ruby on Rails](https://www.digitalocean.com/community/tutorials/containerizing-a-ruby-on-rails-application-for-development-with-docker-compose-pt)
 
 
 ## Empresa para Trabalhar com Ruby On Rails
