@@ -117,10 +117,10 @@ O repositório tente agregar links, sendo o caminho das pedras para quem está e
 
 ## Docker
 
-[Quickstart: Compose and Rails](https://docs.docker.com/samples/rails/)
-[Dockerizando uma app Rails parte 1](https://campuscode.com.br/conteudos/dockerizando-uma-app-rails-para-desenvolvimento-parte-1)
-[Dockerizando uma app Rails parte 2](https://campuscode.com.br/conteudos/dockerizando-uma-app-rails-para-desenvolvimento-parte-2)
-[Conteinerizando um aplicativo Ruby on Rails](https://www.digitalocean.com/community/tutorials/containerizing-a-ruby-on-rails-application-for-development-with-docker-compose-pt)
+- [Quickstart: Compose and Rails](https://docs.docker.com/samples/rails/)
+- [Dockerizando uma app Rails parte 1](https://campuscode.com.br/conteudos/dockerizando-uma-app-rails-para-desenvolvimento-parte-1)
+- [Dockerizando uma app Rails parte 2](https://campuscode.com.br/conteudos/dockerizando-uma-app-rails-para-desenvolvimento-parte-2)
+- [Conteinerizando um aplicativo Ruby on Rails](https://www.digitalocean.com/community/tutorials/containerizing-a-ruby-on-rails-application-for-development-with-docker-compose-pt)
 
 
 ## Empresa para Trabalhar com Ruby On Rails
