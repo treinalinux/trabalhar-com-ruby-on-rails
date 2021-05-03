@@ -124,7 +124,7 @@ O repositório tente agregar links, sendo o caminho das pedras para quem está e
 
 
 
-## Banco de Dados
+## Banco de Dados Relacionais
 
 ### PostgreSQL com Rails
 
