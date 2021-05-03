@@ -18,12 +18,6 @@ O repositório tente agregar links, sendo o caminho das pedras para quem está e
 []()
 []()
 
-## Padrões de Projetos em Ruby
-
-[]()
-[]()
-[]()
-[]()
 
 ## Livros Ruby On Rails
 
@@ -51,12 +45,18 @@ O repositório tente agregar links, sendo o caminho das pedras para quem está e
 
 - [devise](https://github.com/heartcombo/devise) : Devise is a flexible authentication solution for Rails based on Warden.
 
+### Segurança
+- [brakeman](https://github.com/presidentbeef/brakeman)
+
 ### Testes e performace
 
 - [minitest](http://docs.seattlerb.org/minitest/)
 - [cucumber](https://cucumber.io)
-- [betterspecs](https://www.betterspecs.org)
 - [rspec](https://rspec.info)
+
+### Entregar projeto
+- [pronto](https://github.com/prontolabs/pronto)
+
 
 ### Migração de versões
 
@@ -69,7 +69,7 @@ O repositório tente agregar links, sendo o caminho das pedras para quem está e
 
 
 
-## Melhores linters
+### Melhores linters
 
 [rubocop - melhor linter para ruby rails]()
 []()
@@ -95,6 +95,11 @@ O repositório tente agregar links, sendo o caminho das pedras para quem está e
 - [refactoring.guru](https://refactoring.guru/pt-br/design-patterns/ruby)
 - [github.com/davidgf](https://github.com/davidgf/design-patterns-in-ruby)
 - [sourcemaking.com](https://sourcemaking.com/design_patterns/builder/)
+
+### Testes e performace
+- [betterspecs](https://www.betterspecs.org)
+
+
 
 ## Melhores Canais do YouTube
 
