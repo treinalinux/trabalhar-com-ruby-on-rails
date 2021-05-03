@@ -85,9 +85,16 @@ O repositório tente agregar links, sendo o caminho das pedras para quem está e
 
 ## Melhores sites
 
+### Conteúdo sobre Ruby on Rails
 - [campuscode.com.br](https://www.campuscode.com.br/inicio)
 - [gorails.com](https://gorails.com)
 - [longliveruby.com](https://longliveruby.com)
+
+### Design Pattern
+
+- [refactoring.guru](https://refactoring.guru/pt-br/design-patterns/ruby)
+- [github.com/davidgf](https://github.com/davidgf/design-patterns-in-ruby)
+- [sourcemaking.com](https://sourcemaking.com/design_patterns/builder/)
 
 ## Melhores Canais do YouTube
 
