@@ -53,6 +53,10 @@ O repositório tente agregar links, sendo o caminho das pedras para quem está e
 
 ### Testes e performace
 
+- [minitest](http://docs.seattlerb.org/minitest/)
+- [cucumber](https://cucumber.io)
+- [betterspecs](https://www.betterspecs.org)
+- [rspec](https://rspec.info)
 
 ### Migração de versões
 
