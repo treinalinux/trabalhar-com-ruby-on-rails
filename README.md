@@ -78,6 +78,9 @@ O repositório tente agregar links, sendo o caminho das pedras para quem está e
 
 ## Boas práticas
 
+- Convenções em Ruby:
+ - Nomes de Metódos: nome_do_metodo
+ - Nomes de Classes: NomeDaClasse (padrão CamelCase para a prática de escrever as palavras compostas ou frases, onde cada palavra é iniciada com maiúsculas e unidas sem espaços.)
 - Organizar o Gemfile e colocar em ordem alfabética
 - Não commitar os arquivos:
 - - config/database.yml
