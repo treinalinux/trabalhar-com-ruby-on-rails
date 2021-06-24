@@ -174,13 +174,13 @@ O repositório tente agregar links, sendo o caminho das pedras para quem está e
 
 ### Sênior Back-end Ruby
 
-Ruby on Rails
-Rspec
-RabbitMQ
-Sidekiq
-Elastic Search
-Heroku
-Kanban
-Inglês fluente
+- Ruby on Rails
+- Rspec
+- RabbitMQ
+- Sidekiq
+- Elastic Search
+- Heroku
+- Kanban
+- Inglês fluente
 
 
