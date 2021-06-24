@@ -150,3 +150,37 @@ O repositório tente agregar links, sendo o caminho das pedras para quem está e
 - [iugu](https://jobs.kenoby.com/iugu)
 - [bxblue](https://apply.workable.com/bxblue/)
 []()
+
+
+## Exemplos de vagas para Dev Ruby
+
+### Pessoa Desenvolvedora de Software Pl
+
+- Ruby on Rails
+- React
+- MongoDB
+- Heroku
+- AWS
+
+#### *Meu roadmap sobre a vaga acima*
+
+- Ruby on Rails (Linux - Git - Orientação a objetos - Ruby - Gems - Testes - Design Patterns - Rails - API)
+- React (HTML - CSS - JavaScript - NodeJS - Pacotes - ReactJS - Testes)
+- MongoDB (Modelagem de Dados Relacional ou não - Banco de Dados
+  Relacional - PostgreSQL - MongoDB)
+- Heroku (PaaS)
+- AWS (Cloud Computing - AWS)
+
+
+### Sênior Back-end Ruby
+
+Ruby on Rails
+Rspec
+RabbitMQ
+Sidekiq
+Elastic Search
+Heroku
+Kanban
+Inglês fluente
+
+
